@@ -4,9 +4,10 @@ cute pink filter for funsies yayayayayyaay for fun❤️
 demo link: [https://ballgor.github.io/insta_filter/]
 
 features:
-> peaches
-> pink and cutesy filter
-> works from webcam
-> coded on p5js
+-peaches
+-pink and cutesy filter
+-works from webcam
+-coded on p5js
 
 Credits: Cindy and Rachel for the tutorial!! (Sunbeam Hong Kong 29/08/26)
+and Vivienne for typing it up
